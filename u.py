@@ -1,7 +1,7 @@
-def print_username():
+def _username_():
     username = input("Enter your username: ")
     print(f"Username: {username}")
 
-print_username()
+_username_()
 
 
